@@ -14,7 +14,7 @@ namespace myweb.Controllers
         [HttpGet]
         public string Get(string A,string B)
         {
-            return "zzjBBBB," + A + "," + B;
+            return "zzjBBBByyuu," + A + "," + B;
         }
     }
 }
